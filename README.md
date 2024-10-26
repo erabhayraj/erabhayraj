@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello, I'm Abhay Raj!
 
-<!--
-**erabhayraj/erabhayraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.erabhayraj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Trophies](https://github-profile-trophy.vercel.app/?username=erabhayraj&theme=darkhub)
+
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erabhayraj&show_icons=true&theme=radical)  
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erabhayraj&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/abhay-raj-47b886212)
+
